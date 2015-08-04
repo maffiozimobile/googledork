@@ -1,0 +1,21 @@
+{
+    "name": "merzade/yii2-googledorks",
+    "description": "Google dorks scanner",
+    "type": "yii2-extension",
+    "keywords": ["googledorks"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "merzade community",
+            "email": "maffiozimobile@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "merzade\\googledorks\\": ""
+        }
+    }
+}
